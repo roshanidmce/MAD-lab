@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/roshanidmce/MAD-lab.git/static/css/main.d46901b7.css",
+    "main.js": "/roshanidmce/MAD-lab.git/static/js/main.360b5e2b.js",
+    "static/js/787.78ba0a6f.chunk.js": "/roshanidmce/MAD-lab.git/static/js/787.78ba0a6f.chunk.js",
+    "service-worker.js": "/roshanidmce/MAD-lab.git/service-worker.js",
+    "index.html": "/roshanidmce/MAD-lab.git/index.html",
+    "main.d46901b7.css.map": "/roshanidmce/MAD-lab.git/static/css/main.d46901b7.css.map",
+    "main.360b5e2b.js.map": "/roshanidmce/MAD-lab.git/static/js/main.360b5e2b.js.map",
+    "787.78ba0a6f.chunk.js.map": "/roshanidmce/MAD-lab.git/static/js/787.78ba0a6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d46901b7.css",
+    "static/js/main.360b5e2b.js"
+  ]
+}
